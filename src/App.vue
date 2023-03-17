@@ -145,5 +145,6 @@ nav a {
     display: flex;
     gap: 5px;
   }
+  
 }
 </style>

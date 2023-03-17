@@ -65,4 +65,10 @@ export default {};
   /* border: 1px solid crimson; */
   /* border: 1px solid black; */
 }
+@media (max-width: 800px) {
+  .profile-picture {
+    width: 150px;
+    height: 150px;
+  }
+}
 </style>
